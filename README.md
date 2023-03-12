@@ -1,4 +1,4 @@
-# Health-Behavior-Inference-from-Continuous-Blood-Glucose-Data-A-Hidden-Semi-Markov-Approach
+# Health Behavior Inference from Continuous Blood Glucose Data: A Hidden Semi Markov Approach
 
 #### Background
 Diabetes is a condition when the body doesn't produce enough insulin or fails to use it as efficiently as it should. As per American Diabetes Association, in 2019 about 12.84\% Americans were children and adolescents who had type-I diabetes. For patients with diabetes, hypoglycemia is a condition in which blood sugar (glucose) is lower than the standard range whereas hyperglycemia is a condition in which blood sugar (glucose) is higher than the standard range. Hypoglycemic events can lead to serious life threatening consequences whereas hyperglycemic events can lead to slow and permanent damage to internal organs for patients with type I diabetes.
